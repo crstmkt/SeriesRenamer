@@ -1,0 +1,9 @@
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\bin\Debug\SeriesRenamer.exe.config
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\bin\Debug\SeriesRenamer.exe
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\bin\Debug\SeriesRenamer.pdb
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\bin\Debug\SeriesRenamer.xml
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\obj\Debug\SeriesRenamer.Resources.resources
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\obj\Debug\SeriesRenamer.vbproj.GenerateResource.Cache
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\obj\Debug\SeriesRenamer.exe
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\obj\Debug\SeriesRenamer.xml
+D:\Developement\SeriesRenamer\SeriesRenamer\SeriesRenamer\obj\Debug\SeriesRenamer.pdb
